@@ -1,0 +1,47 @@
+{
+  "project_info": {
+    "project_number": "673110705551",
+    "project_id": "smartpond-333917",
+    "storage_bucket": "smartpond-333917.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:673110705551:android:23352d2a9abf7b8010f7fa",
+        "android_client_info": {
+          "package_name": "online.smartpond.in"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "673110705551-ddra770hte1na1hkqhunnm2glan8htug.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "online.smartpond.in",
+            "certificate_hash": "f35120374e76638d63d3994b22a1817f0aefa255"
+          }
+        },
+        {
+          "client_id": "673110705551-c2v3fbsnaopl449k5r84fqi9o6j6p276.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDHZrRiG8pGSmJLh9DgrIaNdzVL_CrkNys"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "673110705551-c2v3fbsnaopl449k5r84fqi9o6j6p276.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
